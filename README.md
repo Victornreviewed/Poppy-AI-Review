@@ -6,6 +6,8 @@ In the ever-evolving world of content creation and digital marketing, finding to
 
 ## What is Poppy AI?
 
+![Image](https://github.com/user-attachments/assets/364a9851-a42c-439b-816a-25721731722e)
+
 Poppy AI is the ultimate digital sidekick that functions as your personal content laboratory. Built to help you generate viral scripts, craft engaging blogs, plan product launches, or simply brainstorm ideas, it blends the analytical power of AI with an immersive, interactive visual interface. Designed by creators for creators, Poppy AI consolidates a variety of media inputs—from YouTube videos and podcasts to PDFs and mind maps—into one seamless experience. Whether you’re a seasoned entrepreneur or a budding content creator, Poppy AI equips you with the tools to think 10x faster and make 10x more impact.
 
 [Click Here To Try Out Poopy AI](https://rebrand.ly/poppy-ai).
