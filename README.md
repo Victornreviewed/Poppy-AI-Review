@@ -125,6 +125,8 @@ In essence, Poppy AI has become my creative catalyst. It’s the tool that lets 
 
 Here are reviews from other users:
 
+![Image](https://github.com/user-attachments/assets/46c3bbd7-208c-4f51-be6d-c7a5c66165ea)
+
 ## Poppy AI Pros:
 
 • Highly Customizable: Tailor every interaction by choosing which media inputs and resources to incorporate into your AI model.
