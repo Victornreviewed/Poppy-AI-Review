@@ -123,7 +123,7 @@ In essence, Poppy AI has become my creative catalyst. It’s the tool that lets 
 
 ## Other Users Experiences & Reviews:
 
-Here are reviews from other users:
+**Here are reviews from other users:**
 
 ![Image](https://github.com/user-attachments/assets/46c3bbd7-208c-4f51-be6d-c7a5c66165ea)
 
