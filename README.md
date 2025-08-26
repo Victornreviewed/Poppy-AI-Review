@@ -129,6 +129,8 @@ Here are reviews from other users:
 
 ![Image](https://github.com/user-attachments/assets/20d243fb-fbec-432b-abcd-2cf84be19351)
 
+![Image](https://github.com/user-attachments/assets/5d6b73ed-ab94-4db2-9547-67556b926043)
+
 ## Poppy AI Pros:
 
 • Highly Customizable: Tailor every interaction by choosing which media inputs and resources to incorporate into your AI model.
