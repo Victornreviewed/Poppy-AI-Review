@@ -127,6 +127,8 @@ Here are reviews from other users:
 
 ![Image](https://github.com/user-attachments/assets/46c3bbd7-208c-4f51-be6d-c7a5c66165ea)
 
+![Image](https://github.com/user-attachments/assets/20d243fb-fbec-432b-abcd-2cf84be19351)
+
 ## Poppy AI Pros:
 
 • Highly Customizable: Tailor every interaction by choosing which media inputs and resources to incorporate into your AI model.
@@ -143,13 +145,13 @@ Here are reviews from other users:
 
 ## Poppy AI Cons
 
-Steep Learning Curve: The powerful, multi-dimensional interface may initially overwhelm new users.
+• Steep Learning Curve: The powerful, multi-dimensional interface may initially overwhelm new users.
 
-Credit Limitations: The standard plan comes with 2,000 credits per month, which might be a constraint for extremely high-volume users.
+• Credit Limitations: The standard plan comes with 2,000 credits per month, which might be a constraint for extremely high-volume users.
 
-No Mobile Application: The tool is currently desktop-only, limiting access for those who need to work on the go.
+• No Mobile Application: The tool is currently desktop-only, limiting access for those who need to work on the go.
 
-Lack of a Free Trial: Although there is a 30-day refund guarantee, the absence of a free trial can be a hurdle for hesitant users.
+• Lack of a Free Trial: Although there is a 30-day refund guarantee, the absence of a free trial can be a hurdle for hesitant users.
 
 [Click Here To Try Out Poopy AI](https://rebrand.ly/poppy-ai).
 
