@@ -14,6 +14,8 @@ Poppy AI is the ultimate digital sidekick that functions as your personal conten
 
 ## How Does Poppy AI Work?
 
+![Image](https://github.com/user-attachments/assets/b32411a0-61b9-4bc3-bbe5-15240a6b444e)
+
 Poppy AI shatters the conventions of linear, text-only AI interactions. Its mechanics work in three transformative steps:
 
 Drag-and-Drop Simplicity: Start by effortlessly dragging and dropping a range of content into the platform. Whether it’s a long-form YouTube video, an inspiring podcast, a hefty PDF, or even an image, Poppy AI ingests all media types at once.
